@@ -1,5 +1,7 @@
 Link to app: https://covid-dashboard-52376.web.app/
 
+This covid dashboard has been created using React, JavaScript, HTML and CSS. Firebase is used for deploying the app. 
+
 ![Screenshot (252)](https://user-images.githubusercontent.com/52904509/92634505-0817b400-f2f2-11ea-8bb0-5a7da3987939.png)
 
 In the project directory, you can run:
