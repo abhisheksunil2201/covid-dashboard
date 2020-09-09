@@ -1,0 +1,13 @@
+.chart {
+    display: flex;
+    max-height: 300px;
+    max-width: 400px;
+    height: 400px;
+    object-fit: contain;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+.chart > * {
+    margin-right: 60px;
+}
